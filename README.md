@@ -38,12 +38,12 @@ Input Voltage (Vin)	Theoretical Gain (Av)	Theoretical Vout	Practical Vout (Prote
 
 ## Observation Table
 
-| Input Voltage ($V_{in}$) (Peak) | Theoretical Gain ($A_v$) | Theoretical Output ($V_{out}$) | Practical Output (Proteus) | Phase Shift |
-| :---: | :---: | :---: | :---: | :---: |
-| 0.5 V | -10 | -5.0 V | -4.98 V | 180° |
-| 1.0 V | -10 | -10.0 V | -9.95 V | 180° |
-| 1.2 V | -10 | -12.0 V | -11.92 V | 180° |
-| 1.5 V | -10 | -15.0 V | -14.2 V (Saturated) | 180° |
+| Input Voltage ($V_{in}$) (Peak) | Theoretical Gain ($A_v$) | Theoretical Output ($V_{out}$) | Practical Output (Proteus) | 
+| :---: | :---: | :---: | :---: | 
+| 0.5 V | -10 | -5.0 V | -4.98 V | 
+| 1.0 V | -10 | -10.0 V | -9.95 V | 
+| 1.2 V | -10 | -12.0 V | -11.92 V | 
+| 1.5 V | -10 | -15.0 V | -14.2 V (Saturated) |
 
 ## Simulation Procedure (Proteus)
 1.	Open Proteus Design Suite
